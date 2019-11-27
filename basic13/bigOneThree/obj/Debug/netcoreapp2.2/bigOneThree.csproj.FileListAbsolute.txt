@@ -1,0 +1,11 @@
+C:\Users\tjs98\Desktop\CodingDojo\C#\basic13\bigOneThree\bin\Debug\netcoreapp2.2\bigOneThree.deps.json
+C:\Users\tjs98\Desktop\CodingDojo\C#\basic13\bigOneThree\bin\Debug\netcoreapp2.2\bigOneThree.runtimeconfig.json
+C:\Users\tjs98\Desktop\CodingDojo\C#\basic13\bigOneThree\bin\Debug\netcoreapp2.2\bigOneThree.runtimeconfig.dev.json
+C:\Users\tjs98\Desktop\CodingDojo\C#\basic13\bigOneThree\bin\Debug\netcoreapp2.2\bigOneThree.dll
+C:\Users\tjs98\Desktop\CodingDojo\C#\basic13\bigOneThree\bin\Debug\netcoreapp2.2\bigOneThree.pdb
+C:\Users\tjs98\Desktop\CodingDojo\C#\basic13\bigOneThree\obj\Debug\netcoreapp2.2\bigOneThree.csprojAssemblyReference.cache
+C:\Users\tjs98\Desktop\CodingDojo\C#\basic13\bigOneThree\obj\Debug\netcoreapp2.2\bigOneThree.csproj.CoreCompileInputs.cache
+C:\Users\tjs98\Desktop\CodingDojo\C#\basic13\bigOneThree\obj\Debug\netcoreapp2.2\bigOneThree.AssemblyInfoInputs.cache
+C:\Users\tjs98\Desktop\CodingDojo\C#\basic13\bigOneThree\obj\Debug\netcoreapp2.2\bigOneThree.AssemblyInfo.cs
+C:\Users\tjs98\Desktop\CodingDojo\C#\basic13\bigOneThree\obj\Debug\netcoreapp2.2\bigOneThree.dll
+C:\Users\tjs98\Desktop\CodingDojo\C#\basic13\bigOneThree\obj\Debug\netcoreapp2.2\bigOneThree.pdb
